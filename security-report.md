@@ -1,7 +1,8 @@
-# Security Vulnerability Report (Generated: Mon May 26 18:30:06 UTC 2025)
+# Security Vulnerability Report (Generated: Mon May 26 18:34:15 UTC 2025)
 
 
-## SonarCloud Summary
-* bugs: 1
-* vulnerabilities: 0
-* security_hotspots: 2
+## Trivy Scan Report from `trivy-fs.json`
+No vulnerabilities found in `trivy-fs.json`.
+
+## Trivy Scan Report from `trivy-image.json`
+No vulnerabilities found in `trivy-image.json`.
