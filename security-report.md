@@ -1,8 +1,7 @@
-# Security Vulnerability Report (Generated: Wed May 28 17:33:24 UTC 2025)
+# Security Vulnerability Report (Generated: Wed May 28 17:35:19 UTC 2025)
 
 
-## Trivy Scan Report from `trivy-fs.json`
-No vulnerabilities found in `trivy-fs.json`.
-
-## Trivy Scan Report from `trivy-image.json`
-No vulnerabilities found in `trivy-image.json`.
+## SonarCloud Summary
+* bugs: 1
+* vulnerabilities: 0
+* security_hotspots: 2
