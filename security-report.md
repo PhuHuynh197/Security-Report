@@ -1,8 +1,9 @@
-# Security Vulnerability Report (Generated: Sat May 31 16:37:54 UTC 2025)
+# Security Vulnerability Report (Generated: Tue Jun  3 19:50:02 UTC 2025)
 
 
-## Trivy Scan Report from `trivy-fs.json`
-No vulnerabilities found in `trivy-fs.json`.
+## Snyk Scan Report from `snyk.sarif`
+- **Rule ID**: java/HardcodedPassword  
+  - **Message**: Do not hardcode passwords in code. Found hardcoded password used in here.  
+  - **Severity**: warning  
+  - **Location**: src/main/java/com/example/bankapp/BadCodeExample.java:13  
 
-## Trivy Scan Report from `trivy-image.json`
-No vulnerabilities found in `trivy-image.json`.
