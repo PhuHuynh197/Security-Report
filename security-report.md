@@ -1,7 +1,9 @@
-# Security Vulnerability Report (Generated: Thu Jun  5 20:05:02 UTC 2025)
+# Security Vulnerability Report (Generated: Thu Jun  5 20:07:28 UTC 2025)
 
 
-## SonarCloud Summary
-* bugs: 1
-* vulnerabilities: 0
-* security_hotspots: 2
+## Snyk Scan Report from `snyk.sarif`
+- **Rule ID**: java/HardcodedPassword  
+  - **Message**: Do not hardcode passwords in code. Found hardcoded password used in here.  
+  - **Severity**: warning  
+  - **Location**: src/main/java/com/example/bankapp/BadCodeExample.java:13  
+
