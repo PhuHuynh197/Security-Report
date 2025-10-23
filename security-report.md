@@ -1,8 +1,5 @@
-# Security Vulnerability Report (Generated: Thu Oct 23 05:48:10 UTC 2025)
+# Security Vulnerability Report (Generated: Thu Oct 23 05:48:14 UTC 2025)
 
 
-## Trivy Scan Report from `trivy-fs.json`
-No vulnerabilities found in `trivy-fs.json`.
-
-## Trivy Scan Report from `trivy-image.json`
-No vulnerabilities found in `trivy-image.json`.
+## Snyk Scan Report from `snyk.sarif`
+** No vulnerabilities found in `snyk.sarif`.**
