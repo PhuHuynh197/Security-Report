@@ -1,5 +1,19 @@
-# Security Vulnerability Report (Generated: Mon Nov 24 09:20:02 UTC 2025)
+# Security Vulnerability Report (Generated: Mon Nov 24 09:20:10 UTC 2025)
 
 
 ## Snyk Scan Report from `snyk.sarif`
-** No vulnerabilities found in `snyk.sarif`.**
+- **Rule ID**: java/HardcodedPassword  
+  - **Message**: Do not hardcode passwords in code. Found hardcoded password used in here.  
+  - **Severity**: warning  
+  - **Location**: src/main/java/com/example/bankapp/BadCodeExample.java:13  
+
+- **Rule ID**: java/NonCryptoHardcodedSecret  
+  - **Message**: Avoid hardcoding values that are meant to be secret. Found hardcoded secret.  
+  - **Severity**: error  
+  - **Location**: src/BadSecretExample.java:5  
+
+- **Rule ID**: java/NonCryptoHardcodedSecret  
+  - **Message**: Avoid hardcoding values that are meant to be secret. Found hardcoded secret.  
+  - **Severity**: error  
+  - **Location**: src/BadSecretExample.java:11  
+
