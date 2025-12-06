@@ -1,7 +1,5 @@
-# Security Vulnerability Report (Generated: Sat Dec  6 16:36:26 UTC 2025)
+# Security Vulnerability Report (Generated: Sat Dec  6 16:36:39 UTC 2025)
 
 
-## SonarCloud Summary
-* bugs: 1
-* vulnerabilities: 0
-* security_hotspots: 2
+## Snyk Scan Report from `snyk.sarif`
+** No vulnerabilities found in `snyk.sarif`.**
